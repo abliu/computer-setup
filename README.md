@@ -8,5 +8,6 @@ computer-setup
 
 ## For development, if necessary
 - Vim, vundle (see [github](https://github.com/abliu/vim-config)).
-- Python, pip, virtualenv.
-- Ruby, bundle.
+- Python, pip, virtualenv, ipython.
+  - Data analysis: numpy, scipy, pandas, matplotlib.
+- Ruby, RubyMine, bundle.
