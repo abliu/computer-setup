@@ -11,3 +11,6 @@ computer-setup
 - [Python](http://stackoverflow.com/questions/6344076/differences-between-distribute-distutils-setuptools-and-distutils2/14753678#14753678) (ask friends), [pip](http://pip.readthedocs.org/en/latest/installing.html), virtualenv, ipython, Sublime?.
   - Data analysis: numpy, scipy, pandas, matplotlib.
 - Ruby, RubyMine, bundle.
+
+## For teamwork, if necessary.
+- Team IRC: HipChat or Slack.
