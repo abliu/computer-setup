@@ -6,8 +6,9 @@ computer-setup
 - iTerm and ohmyzsh
 - git
 
-## For reading
+## For reading and learning
 - Kindle for Mac
+- Anki
 
 ## For measuring productivity
 - RescueTime
