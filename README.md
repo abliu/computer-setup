@@ -12,6 +12,8 @@ computer-setup
 
 ## For measuring productivity
 - RescueTime
+- Kill Newsfeed
+- Toggl and gcal side by side, with gcal\_simplify
 
 ## For security
 - 1Password
