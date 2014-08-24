@@ -10,10 +10,11 @@ computer-setup
 - Kindle for Mac
 - Anki
 
-## For measuring productivity
+## For productivity
 - RescueTime
 - Kill Newsfeed
 - Toggl and gcal side by side, with gcal\_simplify
+- Boomerang Calendar (awesome scheduling!)
 
 ## For security
 - 1Password
