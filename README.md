@@ -10,11 +10,16 @@ computer-setup
 - Kindle for Mac
 - Anki
 
-## For productivity
+## For productivity and chrome extensions
 - RescueTime
 - Kill Newsfeed
 - Toggl and gcal side by side, with gcal\_simplify
-- Boomerang Calendar (awesome scheduling!)
+- Boomerang and Boomerang Calendar (awesome scheduling!)
+- AdBlock
+- Readability
+- Strict Workflow?
+- Rapportive
+- Toggl Button
 
 ## For security
 - 1Password
