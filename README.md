@@ -20,6 +20,8 @@ computer-setup
 - Strict Workflow?
 - Rapportive
 - Toggl Button
+- Chrome search engines: gi, gc, gs
+- Chrome home pages: trello cards, gcal, TAPs
 
 ## For security
 - 1Password
