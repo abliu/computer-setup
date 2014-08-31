@@ -15,6 +15,7 @@ computer-setup
 - Anki
 
 ## For productivity and chrome extensions
+- Flux
 - RescueTime
 - Kill Newsfeed
 - Toggl and gcal side by side, with gcal\_simplify
