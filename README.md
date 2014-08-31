@@ -5,6 +5,8 @@ computer-setup
 - Homebrew
 - iTerm and ohmyzsh
 - git
+- Chrome
+- [Add ssh keys](https://help.github.com/articles/generating-ssh-keys)
 
 ## For reading and learning
 - Kindle for Mac
