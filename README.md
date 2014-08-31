@@ -7,6 +7,7 @@ computer-setup
 - git
 - Chrome
 - [Add ssh keys](https://help.github.com/articles/generating-ssh-keys)
+- Change keyboard preferences to speed up repeats
 
 ## For reading and learning
 - Kindle for Mac
