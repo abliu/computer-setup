@@ -15,6 +15,7 @@ computer-setup
 - Anki
 
 ## For productivity and chrome extensions
+- nvALT
 - Flux
 - RescueTime
 - Kill Newsfeed
