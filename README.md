@@ -14,6 +14,9 @@ computer-setup
 - Kindle for Mac
 - Anki
 
+## For social
+- Adium
+
 ## For productivity and chrome extensions
 - nvALT
 - Flux
