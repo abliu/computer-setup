@@ -1,6 +1,10 @@
 computer-setup
 ==============
 
+## Read this First
+Someone's already solved this problem!
+See [Lapwing Labs](http://www.lapwinglabs.com/blog/hacker-guide-to-setting-up-your-mac).
+
 ## Mac OS X
 - Homebrew
 - iTerm and ohmyzsh
