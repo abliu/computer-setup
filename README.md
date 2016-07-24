@@ -13,6 +13,7 @@ See [Lapwing Labs](http://www.lapwinglabs.com/blog/hacker-guide-to-setting-up-yo
 - [Add ssh keys](https://help.github.com/articles/generating-ssh-keys)
 - Change keyboard preferences to speed up repeats
 - .zshrc
+- Enable dictation
 
 ## For reading and learning
 - Kindle for Mac
